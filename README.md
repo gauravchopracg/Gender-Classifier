@@ -13,7 +13,7 @@ The code uses the scikit-learn machine learning library to train a models on a s
 Once you have your dependencies installed via pip, run the script in terminal via
 
 ```
-python demo.py
+python classifier.py
 ```
 
 ## Credits
