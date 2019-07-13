@@ -18,4 +18,4 @@ python demo.py
 
 ## Credits
 
-'Learn Python for Data Science #1' by @Sirajology on [YouTube (https://youtu.be/T5pRlIbr6gg).
+'Learn Python for Data Science #1' by @Sirajology on [YouTube](https://youtu.be/T5pRlIbr6gg).
